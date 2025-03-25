@@ -4,6 +4,7 @@ This Python script performs hierarchical clustering analysis on geographic marke
 Hierarchical clusering is applied on the dataset in the CSV file 
 
 #dependencies:
+
 pip install pandas numpy matplotlib seaborn scipy scikit-learn
 
 #Usage
